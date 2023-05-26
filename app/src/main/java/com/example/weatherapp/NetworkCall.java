@@ -11,7 +11,7 @@ public class NetworkCall {
 
     private String lat="39.933365";
     private String lon="32.859741";
-    private String id="1331123d346ae5c9f7165bf3a5412dc1";
+    private String id="----------------";
 
 
     public void getWeatherData(View view) {
